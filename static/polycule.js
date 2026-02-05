@@ -1,8 +1,8 @@
 'use strict';
 
 // set up SVG for D3
-var width  = 960,
-    height = 500,
+var width  = 1440,
+    height = 800,
     selected_node = null,
     selected_link = null,
     mousedown_link = null,
